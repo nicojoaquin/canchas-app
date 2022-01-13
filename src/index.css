@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card-img-top {
+  height: 150px;
+}
+
+.nav-link,
+.navbar-brand {
+  color: white !important;
+}
