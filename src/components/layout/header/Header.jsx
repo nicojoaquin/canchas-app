@@ -38,7 +38,9 @@ const Header = () => {
               </li>
             </ul>
             <div className="d-flex nav-item">
-              <span className="btn text-light nav-link">Mi cuenta</span>
+              <Link to="/reservas" className="text-light nav-link">
+                Mis reservas
+              </Link>
             </div>
           </div>
         </div>

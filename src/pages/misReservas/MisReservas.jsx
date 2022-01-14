@@ -8,7 +8,7 @@ const MisReservas = () => {
     return (
       <div
         className="text-secondary d-flex align-items-center justify-content-center"
-        style={{ height: "500px" }}
+        style={{ height: "700px" }}
       >
         <h2>No hay reservas...</h2>
       </div>
@@ -16,7 +16,7 @@ const MisReservas = () => {
   }
 
   return (
-    <table className="table" style={{ height: "500px" }}>
+    <table className="table" style={{ height: "700px" }}>
       <thead>
         <tr>
           <th scope="col">Cancha</th>

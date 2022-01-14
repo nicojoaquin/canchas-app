@@ -1,12 +1,17 @@
 import { useParams } from "react-router-dom";
 import useFetch from "../../../hooks/useFetch";
+import Spinner from "../../spinner/Spinner";
 import Cancha from "../cancha";
 
 const CanchasContainer = () => {
   const { deporte } = useParams();
-  const { data: canchas } = useFetch(
+  const { data: canchas, loading } = useFetch(
     `https://apipdtc.herokuapp.com/${deporte}`
   );
+
+  if (loading) {
+    return <Spinner />;
+  }
 
   return (
     <section className="container mt-5">

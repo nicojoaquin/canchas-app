@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import CanchasProvider from "./context/CanchasContext";
 import Header from "./components/layout/header";
 import Footer from "./components/layout/footer";
