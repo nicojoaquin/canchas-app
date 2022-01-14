@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nicojoaquin.github.io/canchas-app/static/css/main.cbaf02d4.css",
+    "main.js": "/nicojoaquin.github.io/canchas-app/static/js/main.06a3dee7.js",
+    "static/media/futbolslider.png": "/nicojoaquin.github.io/canchas-app/static/media/futbolslider.f0a6f478ce9a3f3c5ab3.png",
+    "static/media/voleyslider.jpg": "/nicojoaquin.github.io/canchas-app/static/media/voleyslider.b7cd4167bd5da6470190.jpg",
+    "static/media/tenisslider.jpg": "/nicojoaquin.github.io/canchas-app/static/media/tenisslider.3be611a518d8f7848efb.jpg",
+    "static/media/bootstrap-icons.woff?": "/nicojoaquin.github.io/canchas-app/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/nicojoaquin.github.io/canchas-app/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "index.html": "/nicojoaquin.github.io/canchas-app/index.html",
+    "main.cbaf02d4.css.map": "/nicojoaquin.github.io/canchas-app/static/css/main.cbaf02d4.css.map",
+    "main.06a3dee7.js.map": "/nicojoaquin.github.io/canchas-app/static/js/main.06a3dee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbaf02d4.css",
+    "static/js/main.06a3dee7.js"
+  ]
+}
