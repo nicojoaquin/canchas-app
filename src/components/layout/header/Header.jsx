@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <header>
-      <nav className="navbar navbar-expand-lg navbar-success bg-success">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-success">
         <div className="container-fluid">
           <button
             className="navbar-toggler"
@@ -14,7 +14,10 @@ const Header = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span className="navbar-toggler-icon"></span>
+            <span
+              className="navbar-toggler-icon text-dark"
+              style={{ color: "white" }}
+            ></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
             <Link className="navbar-brand" to="/">
