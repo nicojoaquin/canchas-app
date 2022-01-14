@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/canchas-app/static/css/main.cd47fa11.css",
-    "main.js": "/canchas-app/static/js/main.b5513cd6.js",
+    "main.js": "/canchas-app/static/js/main.72b01845.js",
     "static/media/futbolslider.png": "/canchas-app/static/media/futbolslider.f0a6f478ce9a3f3c5ab3.png",
     "static/media/voleyslider.jpg": "/canchas-app/static/media/voleyslider.b7cd4167bd5da6470190.jpg",
     "static/media/tenisslider.jpg": "/canchas-app/static/media/tenisslider.3be611a518d8f7848efb.jpg",
@@ -9,10 +9,10 @@
     "static/media/bootstrap-icons.woff2?": "/canchas-app/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
     "index.html": "/canchas-app/index.html",
     "main.cd47fa11.css.map": "/canchas-app/static/css/main.cd47fa11.css.map",
-    "main.b5513cd6.js.map": "/canchas-app/static/js/main.b5513cd6.js.map"
+    "main.72b01845.js.map": "/canchas-app/static/js/main.72b01845.js.map"
   },
   "entrypoints": [
     "static/css/main.cd47fa11.css",
-    "static/js/main.b5513cd6.js"
+    "static/js/main.72b01845.js"
   ]
 }
